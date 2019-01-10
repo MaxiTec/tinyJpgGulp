@@ -1,0 +1,17 @@
+{
+  "name": "tinyapi",
+  "version": "1.0.0",
+  "description": "Tarea para uso de API de TINYJPG",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaxiTEc",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-tinyimg": "^0.1.0"
+  }
+}
